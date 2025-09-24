@@ -2,7 +2,7 @@
 # Pipeline
 ![](https://github.com/ChenZikang66/CTF-TL/blob/main/pipeline.png)
 # Visualization Results
-![](https://github.com/ChenZikang66/CTF-TL/blob/main/visualization results.png).
+![](https://github.com/ChenZikang66/CTF-TL/blob/main/visualization%20results.png).
 # Dataset
 The dataset used in this project can be downloaded via the following link:
 
